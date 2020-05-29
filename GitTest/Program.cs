@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("nowy");
             Console.WriteLine("kolejny wpis");
+            Console.WriteLine("z laptopa");
             Console.ReadKey();
         }
     }
